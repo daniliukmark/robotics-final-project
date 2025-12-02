@@ -41,7 +41,7 @@ The goal of this project is to create a **Smart Piggy Bank** that automatically 
 ## Schematics
 
 See schematics diagram below (based on shown setup):  
-![Schematic](docs/shematic.png)
+![Schematic](schema.png)
 
 ## Setup and Usage Guide
 
@@ -55,7 +55,7 @@ See schematics diagram below (based on shown setup):
    - 220Ω Resistor (for LCD backlight)  
    - Servo Motor  
    - Breadboard and wires  
-4. Connect all components based on the provided schematic (`docs/schematics.png`).  
+4. Connect all components based on the provided schematic (`schema.png`).  
 5. Copy and paste the Arduino `.ino` code into the Tinkercad or Arduino IDE editor.  
 6. Start the simulation or power up the device.  
 7. Drop coins through the slot — the lid opens and closes automatically.  
